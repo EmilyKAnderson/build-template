@@ -1,0 +1,6 @@
+build/**/*
+node_modules
+.sass-cache
+.gulp-scss-cache
+*.log
+.DS_Store

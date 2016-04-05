@@ -1,0 +1,17 @@
+{
+  "name": "dev-template",
+  "description": "## Install",
+  "main": "main.js",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower-packages"
+  ],
+  "dependencies": {
+    "waypoints": "^4.0.0",
+    "jquery": "^2.2.1",
+    "angular": "~1.5.1"
+  }
+}
